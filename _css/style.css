@@ -1,0 +1,29 @@
+/*EDnotSheeran@style*/
+/*
+	folha de estilo do portfolio
+-paleta de cores
+sidebar #192734 
+sidebar font #88999b
+sidebar border #38444d
+content #16202c
+link #008ae6
+*/
+@import "sidebar.css";
+@import "menu.css";
+@import "content.css";
+@import "text.css";
+@import "col.css";
+body{
+	margin: 0px;
+	padding: 0px;
+
+	background-color: #16202c;
+}
+ol{
+	margin: 0px;
+	padding: 0px;
+}
+p{
+	margin: 0px;
+	padding: 0px;
+}

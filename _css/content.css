@@ -1,0 +1,17 @@
+/*EDnotSheeran@sidebar*/
+/*
+	folha de estilo container central
+*/
+.content{
+	margin: 0px;
+	padding: 0px;
+	width: 71.5%;
+	height: 100%;
+	box-sizing: border-box;
+	display: block;
+	position: absolute;
+	/*plano de fundo*/
+
+	margin-left: 23.5%;
+	margin-right: 5%;
+}

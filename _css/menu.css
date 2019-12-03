@@ -1,0 +1,29 @@
+/*EDnotSheeran@style*/
+/*
+	folha de estilo do menu
+*/
+.menu{
+	margin: 0px;
+	padding: 5% 0px;
+	width: 5%;
+	height: 100%;
+	box-sizing: border-box;
+	display: block;
+	position: fixed;
+	right: 0;
+	float: right;
+	/*plano de fundo*/
+	background-color: #192734;
+	/*border*/
+	border-left: solid 1px #38444d;
+}
+.top-menu .icon{
+	margin: 15px auto;
+	width: 60%;
+	filter: invert();
+}
+.bot-menu .icon{
+	margin: 15px auto;
+	width: 40%;
+	filter: invert();
+}

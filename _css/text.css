@@ -1,0 +1,110 @@
+/*EDnotSheeran@style*/
+/*
+	folha de estilo do portfolio
+}
+*/
+.text{
+	margin: 0px;
+	padding: 5% 10%;
+	box-sizing: border-box;
+	overflow: visible;
+	word-break: break-all;
+}
+h1{
+	margin: 15px 0px;
+	padding: 0px;
+
+	color: #ffffff;
+	font-size: 5vw;
+}
+h2{
+	margin: 0px;
+	padding: 0px;
+
+	color: #ffffff;
+	font-size: 4vw;
+}
+h3{
+	margin: 0px;
+	padding: 3px;
+
+	color: #ffffff;
+	font-size: 3vw;
+}
+h4{
+	margin: 0px;
+	padding: 3px;
+
+	color: #ffffff;
+	font-size: 2.5vw;
+}
+h5{
+	margin: 0px;
+	padding: 3px;
+
+	color: #ffffff;
+	font-size: 2vw;
+}
+p{
+	margin: 0px;
+	padding: 0px;
+
+	color: #ffffff;
+	font-size: 2.2vw;
+}
+a{
+	margin: 0px;
+	padding: 0px;
+
+	color: #008ae6;
+	font-size: 2.2vw;
+
+	text-decoration: underline dotted;
+}
+a:hover{
+	color: #ffffff;
+}
+.date{
+	font-size: 1.3vw;
+}
+.date::after{
+	content:  ' - date';
+}
+.font-line{
+	font-weight: 100;
+}
+img{
+	width: 100%;
+	display: block;
+	margin: 0px auto;
+}
+.img-1{
+	width: 10%
+}
+.img-2{
+	width: 20%
+}
+.img-3{
+	width: 30%
+}
+.img-4{
+	width: 40%
+}
+.img-5{
+	width: 50%
+}
+.img-6{
+	width: 60%
+}
+.img-7{
+	width: 70%
+}
+.img-8{
+	width: 80%
+}
+.img-9{
+	width: 90%
+}
+.img-10{
+	width: 100%
+}
